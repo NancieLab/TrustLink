@@ -18,7 +18,7 @@
     "testMatch": ["**/*.test.ts"]
   },
   "dependencies": {
-    "@apollo/server": "^5.5.0",
+    "@apollo/server": "^5.5.1",
     "@aws-sdk/client-s3": "^3.658.0",
     "@google-cloud/storage": "^7.12.1",
     "@graphql-tools/schema": "^10.0.31",
